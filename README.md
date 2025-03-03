@@ -68,3 +68,13 @@ To view the content, we can open a notebook and browse data
 
 ![image](https://github.com/user-attachments/assets/de9246b1-4501-4513-b4e5-eee8364c99d3)
 
+FInally I am creating a symatec model for Power BI here
+
+![image](https://github.com/user-attachments/assets/5499d62b-c138-4369-999d-db57c7ea20fd)
+
+
+Power BI report is generated from the model
+
+![image](https://github.com/user-attachments/assets/e3aaa139-2981-438a-9ec0-019a2b61af67)
+
+
